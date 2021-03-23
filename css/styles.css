@@ -42,7 +42,9 @@ aside {
     border-radius: 5px;
     padding: 20px;
 }
-
+.italicize{
+    font-style: italic;
+}
 .clearfloat {
     clear: both;
 }
